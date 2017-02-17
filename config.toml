@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://asrodelgo.github.io/"
 relativeurls = true
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "asRodelgo"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,10 +15,10 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/about/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/asRodelgo"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/rodelgo_alberto"
 
 [params]
     description = "A website built through Hugo and blogdown."
